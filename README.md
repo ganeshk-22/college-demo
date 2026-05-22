@@ -1,5 +1,5 @@
 # college-demo
 Description: sample demo project 
 <br>
-author - Ganesh K
+author - Ganesh Kuchabal
 
